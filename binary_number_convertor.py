@@ -2,7 +2,7 @@
 # Copyright (c) Brian C. Welch. www.brianwelch.se
 # All rights reserved.  
 # Licensed under the MIT License.
-# Personas arae free to reproduce this code provided
+# Persons are free to reproduce this code provided
 # they do not removed this header
 # + + + + + + + + + + + + + + + + 
 
