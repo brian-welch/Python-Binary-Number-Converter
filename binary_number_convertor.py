@@ -7,7 +7,7 @@
 # + + + + + + + + + + + + + + + + 
 
 def binary_calc(digit_in):
-    '''this one took a while - converting an integer into a binary'''
+    '''converting an integer into a binary'''
     binary_digit1 = []
     output = ""
     if (digit_in == 0):
